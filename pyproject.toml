@@ -1,7 +1,7 @@
 [project]
 name = "ai-agent"
 version = "0.1.0"
-description = "Add your description here"
+description = "CLI chatbot using Google Gemini with function calling for file operations and Python execution"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
